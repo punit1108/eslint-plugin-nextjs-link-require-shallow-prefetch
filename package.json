@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-nextjs-link-require-shallow-prefetch",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Next.js Link tag will require Shallow and Prefetch attributes",
   "keywords": [
     "eslint",
